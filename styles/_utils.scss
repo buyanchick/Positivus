@@ -17,7 +17,7 @@
   overflow: hidden !important;
 }
 
-.hidden-moobile {
+.hidden-mobile {
   @include mobile {
     display: none !important;
   }
